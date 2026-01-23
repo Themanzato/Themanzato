@@ -1,25 +1,25 @@
-<h1 align="center">Hey, I'm Mario Arroyo 👋</h1>
+<h1 align="center">Hey, I'm Mario Arroyo!</h1>
 
 <p align="center">
 Systems Engineer focused on <b>Web Development & Agile Analysis</b>.  
 Experience working with <b>remote teams</b>, Scrum methodologies and building web & mobile solutions.
 <br/>
-📍 Mexico · 🌎 Open to remote teams
+Mexico · 🌎 Open to work
 </p>
 
 ---
 
-## 🍂 About me
+## About me
 
-- 💻 Systems Engineer specialized in Web Development
-- 🌍 Experience working in remote agile teams (Scrum)
-- 🌿 I'm 24 years old
-- 📱 love for indie game development
-- 🚀 I'm learning everyday!
+- Systems Engineer specialized in Web Development
+- Experience working in remote agile teams (Scrum)
+- I'm 24 years old
+- love for indie game development
+- I'm learning everyday!
 
 ---
 
-## 🗃️ My skills
+##  My skills
 
 <div align="center">
 
